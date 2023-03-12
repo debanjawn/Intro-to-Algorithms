@@ -1,3 +1,10 @@
+/*
+Describe an algorithm that takes as input a list of n integers and produces as output the largest
+difference obtained by subtracting an integer in the list from the one following it. Write a
+C++ program to test your algorithm.
+*/
+
+
 #include <iostream>
 using namespace std;
 int arr[]= {9,3,4,2,5,4};
